@@ -4,7 +4,6 @@ import { FotoService } from '../servicos/foto.service';
 import { ActivatedRoute, Router } from '@angular/router';
 import { FormGroup, FormBuilder, Validators } from '@angular/forms';
 
-
 @Component({
   selector: 'cadastro',
   templateUrl: './cadastro.component.html',
